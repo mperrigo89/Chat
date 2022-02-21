@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 12, 2022, 9:29:05 PM
+    Author     : perri
+*/
+body, h1, h2, h3, h4, h5, h6, header, section, ol, ul, li, aside {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+.styleHeader {
+    background-color: lightblue;
+}
